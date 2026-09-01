@@ -1,0 +1,12 @@
+# Raw saved copies of the live WordPress/Elementor site (tekatech.net), kept
+# locally as design reference while this static rebuild was being built.
+# They're not source for this project (WP/Elementor-generated, ~1MB total,
+# absolute links back to the live site) and shouldn't ship in the repo.
+orig_*.html
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
